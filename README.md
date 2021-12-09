@@ -5,6 +5,11 @@
 > A collection of Web Security materials, libraries, documents, books, resources and cool stuff about in Cybersecurity. 
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+
+Ensuring that your website or open web application is secure is critical. Even simple bugs in your code can result in private information being leaked, and bad people are out there trying to find ways to steal data.
+
+* [Web security](https://developer.mozilla.org/en-US/docs/Web/Security) involves protecting networks and computer systems from damage to or the theft of software, hardware, or data. It also includes protecting computer systems from misdirecting or disrupting the services they are designed to provide.
+
 ## Contents
 
 - [Digests](#digests)
