@@ -8,6 +8,8 @@
 
 Ensuring that your website or open web application is secure is critical. Even simple bugs in your code can result in private information being leaked, and bad people are out there trying to find ways to steal data.
 
+![Web Security](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web-Security.png)
+
 * [Web security](https://developer.mozilla.org/en-US/docs/Web/Security) involves protecting networks and computer systems from damage to or the theft of software, hardware, or data. It also includes protecting computer systems from misdirecting or disrupting the services they are designed to provide.
 
 ## Contents
