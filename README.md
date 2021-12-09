@@ -10,7 +10,15 @@ Ensuring that your website or open web application is secure is critical. Even s
 
 ![Web Security](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web-Security.png)
 
+### Web Security
 * [Web security](https://developer.mozilla.org/en-US/docs/Web/Security) involves protecting networks and computer systems from damage to or the theft of software, hardware, or data. It also includes protecting computer systems from misdirecting or disrupting the services they are designed to provide.
+
+### Web security is important for the following key reasons:
+* Malicious Content Protection: 
+* Data Security
+* Regulatory Compliance
+* Improved Network Performance
+* ecure Remote Work
 
 ## Contents
 
