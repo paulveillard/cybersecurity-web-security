@@ -18,7 +18,9 @@ Ensuring that your website or open web application is secure is critical. Even s
 * Data Security
 * Regulatory Compliance
 * Improved Network Performance
-* ecure Remote Work
+* Secure Remote Work
+
+> I highly encourage you to read this article "[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)"
 
 ## Contents
 
