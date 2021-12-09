@@ -2,7 +2,7 @@
 # Cybersecurity Web Security
 
 ###### The World of Web Security in Cybersecurity :
-> A collection of awesome software, libraries, documents, books, resources and cool stuff about Web Security in Cybersecurity.
+> A collection of Web Security materials, libraries, documents, books, resources and cool stuff about in Cybersecurity. 
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Contents
