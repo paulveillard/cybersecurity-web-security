@@ -134,7 +134,7 @@ Ensuring that your website or open web application is secure is critical. Even s
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 - [tl;dr sec](https://tldrsec.com/) - Weekly summary of top security tools, blog posts, and security research.
 
-## Forums
+## `Forums`
 
 - [Phrack Magazine](http://www.phrack.org/) - Ezine written by and for hackers.
 - [The Hacker News](https://thehackernews.com/) - Security in a serious way.
@@ -144,7 +144,7 @@ Ensuring that your website or open web application is secure is critical. Even s
 - [HackDig](http://en.hackdig.com/) - Dig high-quality web security articles for hacker.
 
 <a name="intro"></a>
-## Introduction
+## `Introduction`
 
 <a name="xss"></a>
 ### XSS - Cross-Site Scripting
