@@ -123,7 +123,7 @@ Ensuring that your website or open web application is secure is critical. Even s
 - [Community](#community)
 - [Miscellaneous](#miscellaneous)
 
-## Digests
+##  `Digests`
 
 - [Hacker101](https://www.hacker101.com/) - Written by [hackerone](https://www.hackerone.com/start-hacking).
 - [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) - Written by [PortSwigger](https://portswigger.net/).
