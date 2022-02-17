@@ -11,7 +11,7 @@ Ensuring that your website or open web application is secure is critical. Even s
 ![Web Security](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web-Security.png)
 
 ###  `What is Web Security? `
-* [Web security](https://developer.mozilla.org/en-US/docs/Web/Security) involves protecting networks and computer systems from damage to or the theft of software, hardware, or data. It also includes protecting computer systems from misdirecting or disrupting the services they are designed to provide.
+[Web security](https://developer.mozilla.org/en-US/docs/Web/Security) involves protecting networks and computer systems from damage to or the theft of software, hardware, or data. It also includes protecting computer systems from misdirecting or disrupting the services they are designed to provide.
 
 ###  `Web security is important for the following key reasons: `
 * Malicious Content Protection: 
@@ -23,7 +23,7 @@ Ensuring that your website or open web application is secure is critical. Even s
 > I highly encourage you to read this article "[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)"
 
 ##  `Table of Contents`
-- [Introduction](#what-is-web-security)
+- [Introduction](#what-is-web-security-)
 - [Digests](#digests)
 - [Forums](#forums)
 - [Introduction](#intro)
