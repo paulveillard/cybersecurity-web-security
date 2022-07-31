@@ -1,10 +1,8 @@
 
 # Cybersecurity Web Security
 
-###### The World of Web Security in Cybersecurity :
-> A collection of Web Security materials, libraries, documents, books, resources and cool stuff about in Cybersecurity. 
+An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Web Security in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
-
 
 Ensuring that your website or open web application is secure is critical. Even simple bugs in your code can result in private information being leaked, and bad people are out there trying to find ways to steal data.
 
