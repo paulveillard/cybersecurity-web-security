@@ -17,5 +17,6 @@ Schemes are the Hyper Text Transfer Protocols (“http://” & “https://”). 
 Now if websites could not interact with each other, then the internet would be rather dull. How could any site interact with other sites ?How could google or facebook interact with each other and share data? This is where CORS comes into play.
 
 CORS stands for Cross Origin Reference Sharing. With CORS, browsers have a work-around in order to get data from servers. Websites or servers that use CORS allow cross reference http requests. The way this works is a browser sends a http request (GET, POST, PUT, etc.) with special headers that the server reviews. After the servers review the headers, the server will either accept the request and comply or reject the request and decline. Response headers are typically sent.
+![image3](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web%20Security%20Terminology/Same-Origin%20Policy/img/sop-3.PNG)
 
 
