@@ -12,6 +12,7 @@ Origin is a portion of the url consisting of a specific protocol(scheme), host, 
 
 Schemes are the Hyper Text Transfer Protocols (“http://” & “https://”). The host is the website (www.example.com or example.com). The port is a number code at the end of the host (ftp 21, qotd 17, or WWW 80). When no port is specified, the browser defaults to port 80. The endpoints (ex./index.html/messages ) are not part of the origin.
 
+![image2](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web%20Security%20Terminology/Same-Origin%20Policy/img/sop-2.PNG)
 
 Now if websites could not interact with each other, then the internet would be rather dull. How could any site interact with other sites ?How could google or facebook interact with each other and share data? This is where CORS comes into play.
 
