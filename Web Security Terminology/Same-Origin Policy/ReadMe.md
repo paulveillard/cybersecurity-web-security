@@ -1,12 +1,14 @@
 # Same-Origin Policy
 
 ## Table of Contents
-
+- What is Same-Origin Policy?
 
 Web security is something that the general public understands exist but doesn’t really know how it works. Below we will try to examine some of the first steps of Same-Origin Policy and CORS.
 
 ![img](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web%20Security%20Terminology/Same-Origin%20Policy/img/sop-1.jpg)
 
+
+### What is Same-Origin Policy?
 [Same-Origin Policy](https://developer.mozilla.org/en-US/docs/Glossary/Same-origin_policy) is a critical safety feature that restricts document interaction with different origin resources. What this means is that a server can restrict access to it’s data if the browser sends a request from a different origin than the server. This begs the question what is an “origin”? Also, how are origins compared?
 
 Origin is a portion of the url consisting of a specific protocol(scheme), host, and port.
