@@ -52,6 +52,8 @@ let users = fetch(‘http://parse.example.com//messages', {
 console.log(users);
 ```
 
+![img7](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web%20Security%20Terminology/Same-Origin%20Policy/img/sop-6.PNG)
+
 In order for the Promise fetch() to work, I had to add in an object containing the method of ‘GET’ and headers containing an API key and Application ID.
 
 Wrapping this blog up, Same-Origin Policy is a safety precaution preventing potential malicious data from entering a server. CORS is a protocol that helps to get around the Same-Origin Policy and continue to offer protection to servers. The JavaScript fetch function is not too difficult to use.
