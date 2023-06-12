@@ -25,6 +25,7 @@ Now if websites could not interact with each other, then the internet would be r
 
 CORS stands for Cross Origin Reference Sharing. With CORS, browsers have a work-around in order to get data from servers. Websites or servers that use CORS allow cross reference http requests. The way this works is a browser sends a http request (GET, POST, PUT, etc.) with special headers that the server reviews. After the servers review the headers, the server will either accept the request and comply or reject the request and decline. Response headers are typically sent.
 
+![image6](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web%20Security%20Terminology/Same-Origin%20Policy/img/sop-5.PNG)
 
 After reviewing the image above, the JavaScript, Browser, and Server are the three key players in the dialogue of an HTTP request. Finally after 300+ words into this blog we see JavaScript. JavaScript is the brains that gets the Browser to make a request to the server. Let me state again, the Browser makes the HTTP request to the Server. JavaScript tells the Browser what to ask for. This is the part where JavaScript code comes into play.
 
