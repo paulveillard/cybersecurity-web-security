@@ -25,6 +25,7 @@ After reviewing the image above, the JavaScript, Browser, and Server are the thr
 
 After searching MDN and W3C for Same-Origin Policy and CORS, I kept seeing the use of XMLHttpRequest and Fetch API. I was familiar with using jQuery’s $.ajax to write HTTP requests but I wanted to find out what Fetch was. Was Fetch part of JavaScript? Come to find out that Fetch API is not part of JavaScript, but the Promise fetch() function is. So I used the fetch() function to make a GET request to a server and pull some mock data for better clarification on the CORS topic. See the code below.
 
+```
 let users = fetch(‘http://parse.example.com//messages', {
   method: ‘GET’,
   headers: {
@@ -43,5 +44,5 @@ let users = fetch(‘http://parse.example.com//messages', {
  return data;
 });
 console.log(users);
-
+```
 
