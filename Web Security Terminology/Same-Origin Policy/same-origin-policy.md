@@ -1,0 +1,1 @@
+# Same-Origin Policy
