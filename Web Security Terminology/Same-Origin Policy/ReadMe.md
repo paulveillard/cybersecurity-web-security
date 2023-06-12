@@ -1,5 +1,8 @@
 # Same-Origin Policy
 
+## Table of Contents
+
+
 Web security is something that the general public understands exist but doesn’t really know how it works. Below we will try to examine some of the first steps of Same-Origin Policy and CORS.
 
 ![img](https://github.com/paulveillard/cybersecurity-web-security/blob/main/Web%20Security%20Terminology/Same-Origin%20Policy/img/sop-1.jpg)
